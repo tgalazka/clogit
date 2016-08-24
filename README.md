@@ -1,2 +1,2 @@
 # clogit
-AnExpress module managing change logs and version update publications.
+An Express module managing change logs and version update publications.
